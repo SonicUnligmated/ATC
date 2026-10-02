@@ -1,3 +1,3 @@
 Direct links:
-Math: https://ancient7999.github.io/ATC/ATC-Math.html
-Non-math: https://ancient7999.github.io/ATC/ATC.html
+Math: https://sonicunligmated.github.io/ATC/ATC-Math.html
+Non-math: https://sonicunligmated.github.io/ATC/ATC.html
